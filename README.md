@@ -41,10 +41,9 @@ Demonstrating the execution of the project for both admin and student.
 
 https://github.com/user-attachments/assets/15dfcd70-1a03-463c-be6b-2e081c6a523d
 
-https://screenrec.com/share/8ojaUxADTr
-[![Video Demonstration](https://screenrec.com/share/8ojaUxADTr)](https://screenrec.com/share/8ojaUxADTr)
-
 ### Student roleplay in QuizApp
+
+
 
 ## Conclusion
 The Quiz System allows for efficient management and participation in quizzes. Admins can easily add questions to a centralized quiz bank, and students can take randomized quizzes, providing a robust platform for both quiz administration and participation.

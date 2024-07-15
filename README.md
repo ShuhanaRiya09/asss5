@@ -1,5 +1,5 @@
 # Project Title
-##Quiz System with java and Json 
+#Java Quiz Application with JSON Integration
 
 ## Project Summary
 This project is a simple Quiz System that allows an admin to add multiple-choice questions (MCQs) to a quiz bank and a student to take a quiz with random questions from the quiz bank. The system supports user authentication for both admin and student roles, enabling admins to manage the quiz content and students to participate in the quizzes.
@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/15dfcd70-1a03-463c-be6b-2e081c6a523d
 
 ### Student roleplay in QuizApp
 
+https://github.com/user-attachments/assets/4e1414b8-cbce-4d43-80fa-e05c20a87df3
 
 
 ## Conclusion

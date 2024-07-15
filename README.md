@@ -39,6 +39,7 @@ This project is a simple Quiz System that allows an admin to add multiple-choice
 Demonstrating the execution of the project for both admin and student.
 ### Admin roleplay in QuizApp
 https://screenrec.com/share/8ojaUxADTr
+[![Video Demonstration](https://screenrec.com/share/8ojaUxADTr)](https://screenrec.com/share/8ojaUxADTr)
 
 ### Student roleplay in QuizApp
 

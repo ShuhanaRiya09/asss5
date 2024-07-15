@@ -1,4 +1,5 @@
-# Project Title: Quiz System
+# Project Title
+##Quiz System with java and Json 
 
 ## Project Summary
 This project is a simple Quiz System that allows an admin to add multiple-choice questions (MCQs) to a quiz bank and a student to take a quiz with random questions from the quiz bank. The system supports user authentication for both admin and student roles, enabling admins to manage the quiz content and students to participate in the quizzes.
@@ -32,3 +33,13 @@ This project is a simple Quiz System that allows an admin to add multiple-choice
 2. If authenticated as a student, the system prompts you to start the quiz.
 3. Answer 10 random questions from the quiz bank.
 4. Receive feedback based on your score.
+
+
+## Video Demonstration
+Demonstrating the execution of the project for both admin and student.
+### Admin roleplay in QuizApp
+
+### Student roleplay in QuizApp
+
+## Conclusion
+The Quiz System allows for efficient management and participation in quizzes. Admins can easily add questions to a centralized quiz bank, and students can take randomized quizzes, providing a robust platform for both quiz administration and participation.

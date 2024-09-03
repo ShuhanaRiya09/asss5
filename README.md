@@ -3,6 +3,8 @@
 ## Project Overview
 This project automates the guest registration form on the WP Everest Guest Registration Form Demo using Selenium WebDriver with Junt and  Java. The automation script inputs the necessary fields, submits the form, and asserts that the registration is successful.
 
+## Website URL: https://demo.wpeverest.com/user-registration/guest-registration-form/
+
 ## Prerequisites
 - **Java 8** or above
 - **Gradle** for dependency management
@@ -11,7 +13,10 @@ This project automates the guest registration form on the WP Everest Guest Regis
 - **IDE** like IntelliJ IDEA or Eclipse
 - **Git** for version control
 
-
+## Running the Automation with Gradle
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Clean the project and run tests with Gradle using the daemon mode: gradle clean test
 
 
 ## Test Workflow:

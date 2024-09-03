@@ -1,4 +1,4 @@
-# "User Registration Form Automation"
+# "User Registration Form Automation using JUNIT"
 
 ## Project Overview
 This project automates the guest registration form on the WP Everest Guest Registration Form Demo using Selenium WebDriver with Junt and  Java. The automation script inputs the necessary fields, submits the form, and asserts that the registration is successful.
@@ -25,6 +25,8 @@ This project automates the guest registration form on the WP Everest Guest Regis
 - Accept the Terms & Conditions.
 - Click the submit button.
 - Assert that a successful registration message is displayed..
+
+## Automation Report :
 
    
 ## Automation Showcasing:

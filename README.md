@@ -1,7 +1,7 @@
 # "User Registration Form Automation"
 
 ## Project Overview
-This project automates the guest registration form on the WP Everest Guest Registration Form Demo using Selenium WebDriver with Java. The automation script inputs the necessary fields, submits the form, and asserts that the registration is successful.
+This project automates the guest registration form on the WP Everest Guest Registration Form Demo using Selenium WebDriver with Junt and  Java. The automation script inputs the necessary fields, submits the form, and asserts that the registration is successful.
 
 ## Prerequisites
 - **Java 8** or above

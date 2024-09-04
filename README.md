@@ -27,6 +27,8 @@ This project automates the guest registration form on the WP Everest Guest Regis
 - Assert that a successful registration message is displayed..
 
 ## Automation Report :
+![Screenshot 2024-09-04 191943](https://github.com/user-attachments/assets/fdaa0957-ac91-4729-aa50-15423bf551bd)
+
 
    
 ## Automation Showcasing:

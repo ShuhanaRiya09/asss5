@@ -31,5 +31,7 @@ This project automates the guest registration form on the WP Everest Guest Regis
    
 ## Automation Showcasing:
 
+https://github.com/user-attachments/assets/bd16f156-d45c-4568-942d-5cf06e749307
+
 
 
